@@ -1,5 +1,5 @@
 #******************************************************************
-#Step 0. Downloading and unzipping dataset
+#Step 0. Downloading and unzipping dataset.
 #******************************************************************
 
 if(!file.exists("./data")){dir.create("./data")}
